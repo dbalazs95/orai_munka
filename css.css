@@ -1,0 +1,9 @@
+body {
+    background-image: url(pics/hatter.jpg);
+}
+main {
+    background-color: white;
+}
+.row {
+    margin: auto;
+}
